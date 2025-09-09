@@ -103,6 +103,12 @@ android.permissions = CAMERA, INTERNET, VIBRATE
 
 # (int) Target Android API, should be as high as possible.
 #android.api = 31
+[app]
+# (other settings)
+android.api = 33
+android.minapi = 21
+android.ndk = 25b
+
 
 # (int) Minimum API your APK / AAB will support.
 #android.minapi = 21
